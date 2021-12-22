@@ -1,0 +1,10 @@
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\bin\Debug\Laba14.exe.config
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\bin\Debug\Laba14.exe
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\bin\Debug\Laba14.pdb
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.Form1.resources
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.Properties.Resources.resources
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.exe
+C:\Users\Илья\Desktop\Выполненные работы\ООП\Laba14\obj\Debug\Laba14.pdb
