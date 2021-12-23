@@ -52,12 +52,31 @@ namespace Laba14
         {
             richTextBox.Text+= $"{rationalNumbers.numerator} / {rationalNumbers.denominator}";
         }
+
+        void Task3()
+        {
+            ComplexNumbers num1 = new ComplexNumbers(2, 4);
+            ComplexNumbers num2 = new ComplexNumbers(5, 2);
+            richTextBox9.Text = num1.ToString();
+            richTextBox8.Text = num2.ToString();
+            richTextBox7.Text = "";
+            richTextBox7.Text = $"Операции:\n" +
+                $"Сложение: {num1 + num2}\n" +
+                $"Вычитание: {num1 - num2}\n" +
+                $"Умножение: {num1 * num2}\n" +
+                $"Равенство: {num1 == num2}\n";
+        }
+
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (tabControl1.SelectedIndex == 1)
             {
                 Task2();
+            }else if (tabControl1.SelectedIndex == 2)
+            {
+                Task3();
             }
+
         }
 
     }
